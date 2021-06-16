@@ -15,7 +15,8 @@
         android:theme="@style/Theme.MovieCatalogue"
         android:fullBackupContent="@xml/my_backup_rule"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
-        <activity android:name=".splashscreen.SplashScreenActivity">
+        <activity android:name=".splashscreen.SplashScreenActivity"
+                  android:theme="@style/Theme.SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -23,7 +24,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".home.HomeActivity"/>
-        <activity android:name=".detail.DetailActivity"/>
+        <activity android:name=".detail.DetailActivity" />
     </application>
 
 </manifest>

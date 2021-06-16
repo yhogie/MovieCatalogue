@@ -55,7 +55,8 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/cardView"
             app:layout_constraintTop_toTopOf="@+id/cardView"
-            tools:text="Mortal Kombat" />
+            tools:text="Mortal Kombat"
+            android:textIsSelectable="true" />
 
         <TextView
             android:id="@+id/tv_release"
@@ -70,7 +71,8 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/cardView"
             app:layout_constraintTop_toBottomOf="@+id/tv_title"
-            tools:text="2021-04-07" />
+            tools:text="2021-04-07"
+            android:textIsSelectable="true" />
 
         <TextView
             android:id="@+id/tv_overview"
@@ -88,7 +90,8 @@
             app:layout_constraintBottom_toBottomOf="@+id/cardView"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/cardView"
-            tools:text="@string/desc_overview" />
+            tools:text="@string/desc_overview"
+            android:textIsSelectable="true" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </androidx.cardview.widget.CardView>
