@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="application_logo">Application Logo</string>
+    <string name="movie_s_image">Movie\'s image</string>
+    <string name="overview">Overview :</string>
+    <string name="desc_overview">"In a time when monsters walk the Earth, humanity\’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.</string>
+    <string name="popularity">Popularity :</string>
+    <string name="share">Share</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="refresh">Refresh</string>
+    <string name="button_to_add_or_remove_item_from_favourite">add or remove item from favourite</string>
+
+</resources>
