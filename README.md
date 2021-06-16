@@ -1,2 +1,2 @@
 # MovieCatalogue
-[![yhogie](https://app.circleci.com/pipelines/github/yhogie/MovieCatalogue.svg?style=svg)](https://app.circleci.com/pipelines/github/yhogie/MovieCatalogue)
+[![yhogie](https://circleci.com/gh/yhogie/MovieCatalogue.svg?style=shield)](https://circleci.com/gh/yhogie/MovieCatalogue)
