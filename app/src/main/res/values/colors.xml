@@ -9,8 +9,6 @@
     <color name="selected">#FEBE32</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="font_black">#444444</color>
-    <color name="color_bg">#EDEEF1</color>
     <color name="color_rating">#FFD700</color>
     <color name="color_background_drop">#cc000000</color>
 </resources>
